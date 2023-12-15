@@ -19,11 +19,11 @@ describe("CreateTableUseCase", () => {
   };
 
   beforeEach(() => {
-    // clean();
+    clean();
   });
 
   afterEach(() => {
-    // clean();
+    clean();
   });
 
   afterAll(() => {
